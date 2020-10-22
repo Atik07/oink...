@@ -1,5 +1,5 @@
 # oink...
-Machine Learning project : predicting Stock Prices
+Machine Learning project : Predicting Stock Prices
 
 Data Set : https://www.quandl.com/data/EOD/MSFT-Microsoft-Corporation-MSFT-Stock-Prices-Dividends-and-Splits
 
